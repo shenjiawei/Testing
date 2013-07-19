@@ -15,3 +15,5 @@ print sorted_items
 
 
 print int(750.0)
+
+"I am not fetched"
